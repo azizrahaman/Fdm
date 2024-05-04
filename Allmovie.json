@@ -5,7 +5,7 @@
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
         "fileSize": 60809,
         "status": 1,
-        "language": "en",
+        "language": "it",
         "authors": [
             "Adippe",
             "Forthe"
@@ -18,9 +18,9 @@
             "OVA"
         ],
         "version": 2,
-        "internalName": "AllLangByAziz",
-        "description": "Custom by me",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/blob/main/cs3/indian/AllMovieLandProvider.cs3",
-        "name": "AllLangAziz"
+        "internalName": "SoraItalianStream",
+        "description": "Provider che utilizza tmdb. Non tutti i links sono funzionanti",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/SoraItalianStream.cs3",
+        "name": "SoraItalianStream"
     }
 ]
