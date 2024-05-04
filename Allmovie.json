@@ -20,7 +20,7 @@
         "version": 2,
         "internalName": "SoraItalianStream",
         "description": "Provider che utilizza tmdb. Non tutti i links sono funzionanti",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Turkish.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/ShowFlixProvider.cs3",
         "name": "SoraItalianStream"
     }
 ]
