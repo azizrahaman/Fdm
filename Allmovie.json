@@ -1,0 +1,26 @@
+[   
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 60809,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Adippe",
+            "Forthe"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AllLangByAziz",
+        "description": "Custom by me",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/blob/main/cs3/indian/AllMovieLandProvider.cs3",
+        "name": "AllLangAziz"
+    }
+]
