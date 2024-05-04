@@ -2,10 +2,10 @@
  {
         "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
         "fileSize": 60809,
         "status": 1,
-        "language": "hi",
+        "language": "fr",
         "authors": [
             "Adippe",
             "Forthe"
