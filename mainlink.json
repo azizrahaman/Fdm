@@ -1,8 +1,8 @@
 {
-    "name": "Foreign Movie Series FreeDriveMovie repo 1",
-    "description": "FreeDriveMovie Foreign Movie Series or Dubbed Movies in Foreign",
+    "name": "Asian Drama FreeDriveMovie repo",
+    "description": "FreeDriveMovie Asian Drama",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/foreignstream.json"
+      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/asiandramastream.json"
     ]
   }
