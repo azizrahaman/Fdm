@@ -1,8 +1,8 @@
 {
-    "name": "Multi Lang x",
-    "description": "Cloudstream English Plugin Repository",
+    "name": "Inidian Hindi FreeDriveMovie repo",
+    "description": "FreeDriveMovie Indian Hindi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/test.json"
+      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/indhindistream.json"
     ]
   }
