@@ -1,8 +1,8 @@
 {
-    "name": "Multi Lang 2",
+    "name": "Multi Lang 3",
     "description": "Cloudstream English Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://azizrahaman.github.io/Fdm/Allmovie.json"
+      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/indhindistream.json"
     ]
   }
