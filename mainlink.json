@@ -1,8 +1,8 @@
 {
-    "name": "Anime FreeDriveMovie repo",
-    "description": "FreeDriveMovie Anime",
+    "name": "Multi Lang",
+    "description": "Cloudstream English Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/animestream.json"
+      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/test.json"
     ]
   }
